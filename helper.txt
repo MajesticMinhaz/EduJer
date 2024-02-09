@@ -1,0 +1,8 @@
+password: edujer2024
+alias: edujer
+
+package name: com.edujer
+
+Md Minhaz
+Android Developement
+Minhaz
